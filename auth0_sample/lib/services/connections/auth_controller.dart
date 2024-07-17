@@ -5,7 +5,7 @@ import 'package:get/get.dart';
 class AuthController extends GetxController {
   //static const String AUTH0_DOMAIN = 'dev-z4s5kjlhkkczeqe8.us.auth0.com';
 static const String AUTH0_DOMAIN ='otrleasing.us.auth0.com';
-  static const String AUTH0_CLIENT_ID = 'mJZfgM2wJtQJnl61zmmq6GyEUMFEqUFi';
+  static const String AUTH0_CLIENT_ID = 'sg0FdquHZBxsAq7SjAT2kqNTBKQLbUVt';
 
   final Auth0 auth0 = Auth0(AUTH0_DOMAIN, AUTH0_CLIENT_ID);
 
